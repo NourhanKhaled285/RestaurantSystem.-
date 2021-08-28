@@ -1,4 +1,4 @@
-# RestaurantSystem
+# RestaurantSystem using XML files as database
 The restaurant maintains the catalog for the list of food and beverage items that it provides. 
 
 Apart from providing food facility at their own premises, the restaurant takes orders online through their site. 
