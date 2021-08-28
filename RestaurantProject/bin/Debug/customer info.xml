@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <customer>
+    <phonenum>11</phonenum>
+    <orders>
+      <order>
+        <area>Address,El_Rehab</area>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,El_Rehab</area>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,El_Rehab</area>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+        <item>
+          <foodname>Strawberry Belgian Waffles</foodname>
+          <foodprice>85</foodprice>
+          <foodquantity>1</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,El-Zayton</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>1</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,El-Zayton</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>6</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,El-Zayton</area>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>4</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,El_Obour</area>
+        <item>
+          <foodname>Strawberry Belgian Waffles</foodname>
+          <foodprice>85</foodprice>
+          <foodquantity>2</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>1501.5</totalprice>
+    <discount>223.5</discount>
+    <numoforders>7</numoforders>
+  </customer>
+  <customer>
+    <phonenum>82555</phonenum>
+    <orders>
+      <order>
+        <area>Address,El-Shrouk</area>
+        <item>
+          <foodname>Belgian Waffles</foodname>
+          <foodprice>60</foodprice>
+          <foodquantity>10</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>600</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>1189742445</phonenum>
+    <orders>
+      <order>
+        <area>hhhhhhhhh,El-Zayton</area>
+        <item>
+          <foodname>Belgian Waffles</foodname>
+          <foodprice>60</foodprice>
+          <foodquantity>10</foodquantity>
+        </item>
+        <item>
+          <foodname>Strawberry Belgian Waffles</foodname>
+          <foodprice>85</foodprice>
+          <foodquantity>10</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>hhhhhhhhh,El-Zayton</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>6</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>1930</totalprice>
+    <discount>0</discount>
+    <numoforders>2</numoforders>
+  </customer>
+  <customer>
+    <phonenum>154852</phonenum>
+    <orders>
+      <order>
+        <area>Address,El_Obour</area>
+        <item>
+          <foodname>Homestyle Breakfast</foodname>
+          <foodprice>90</foodprice>
+          <foodquantity>6</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>540</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>155120</phonenum>
+    <orders>
+      <order>
+        <area>Address,El_Obour</area>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,El_Obour</area>
+        <item>
+          <foodname>Homestyle Breakfast</foodname>
+          <foodprice>90</foodprice>
+          <foodquantity>4</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>570</totalprice>
+    <discount>0</discount>
+    <numoforders>2</numoforders>
+  </customer>
+  <customer>
+    <phonenum>4210</phonenum>
+    <orders>
+      <order>
+        <area>Address,Madint Nasr</area>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>210</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>111111</phonenum>
+    <orders>
+      <order>
+        <area>Address,El_Rehab</area>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>5</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>350</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>85555</phonenum>
+    <orders>
+      <order>
+        <area>Address,El-Shrouk</area>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>4</foodquantity>
+        </item>
+        <item>
+          <foodname>Homestyle Breakfast</foodname>
+          <foodprice>90</foodprice>
+          <foodquantity>4</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>640</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>86555</phonenum>
+    <orders>
+      <order>
+        <area>Address,El-Zayton</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>2</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>160</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>88</phonenum>
+    <orders>
+      <order>
+        <area>Address,El-Shrouk</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>240</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>8888</phonenum>
+    <orders>
+      <order>
+        <area>Address,El_Rehab</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>450</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>999</phonenum>
+    <orders>
+      <order>
+        <area>Address,Heliopolis</area>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>25</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,El-Shrouk</area>
+        <item>
+          <foodname>Homestyle Breakfast</foodname>
+          <foodprice>90</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>2020</totalprice>
+    <discount>0</discount>
+    <numoforders>2</numoforders>
+  </customer>
+  <customer>
+    <phonenum>11111111</phonenum>
+    <orders>
+      <order>
+        <area>Address,El-Shrouk</area>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>2</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>140</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>8</phonenum>
+    <orders>
+      <order>
+        <area>Address,El-Shrouk</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>240</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>11111</phonenum>
+    <orders>
+      <order>
+        <area>Address,Heliopolis</area>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>240</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>888</phonenum>
+    <orders>
+      <order>
+        <area>Address,El_Obour</area>
+        <item>
+          <foodname>Belgian Waffles</foodname>
+          <foodprice>60</foodprice>
+          <foodquantity>2</foodquantity>
+        </item>
+        <item>
+          <foodname>Berry Belgian Waffles</foodname>
+          <foodprice>80</foodprice>
+          <foodquantity>5</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>kkk,El_Rehab</area>
+        <item>
+          <foodname>Belgian Waffles</foodname>
+          <foodprice>60</foodprice>
+          <foodquantity>4</foodquantity>
+        </item>
+        <item>
+          <foodname>French Toast</foodname>
+          <foodprice>70</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+        <item>
+          <foodname>Homestyle Breakfast</foodname>
+          <foodprice>90</foodprice>
+          <foodquantity>50</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>5470</totalprice>
+    <discount>0</discount>
+    <numoforders>2</numoforders>
+  </customer>
+  <customer>
+    <phonenum>5555</phonenum>
+    <orders>
+      <order>
+        <area>Address,El-Shrouk</area>
+        <item>
+          <foodname>Belgian Waffles</foodname>
+          <foodprice>60</foodprice>
+          <foodquantity>64</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>3840</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>111</phonenum>
+    <orders>
+      <order>
+        <area>Address,Madint Nasr</area>
+        <item>
+          <foodname>Strawberry Belgian Waffles</foodname>
+          <foodprice>85</foodprice>
+          <foodquantity>4</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>Address,Abbaseya</area>
+        <item>
+          <foodname>Strawberry Belgian Waffles</foodname>
+          <foodprice>85</foodprice>
+          <foodquantity>1</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>425</totalprice>
+    <discount>0</discount>
+    <numoforders>2</numoforders>
+  </customer>
+  <customer>
+    <phonenum>2000</phonenum>
+    <orders>
+      <order>
+        <area>Address,El_Obour</area>
+        <item>
+          <foodname>Strawberry Belgian Waffles</foodname>
+          <foodprice>85</foodprice>
+          <foodquantity>43</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>3655</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>8888888</phonenum>
+    <orders>
+      <order>
+        <area>Address,El-Shrouk</area>
+        <item>
+          <foodname>Homestyle Breakfast</foodname>
+          <foodprice>90</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>270</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>55</phonenum>
+    <orders>
+      <order>
+        <area>Address,Heliopolis</area>
+        <item>
+          <foodname>Strawberry Belgian Waffles</foodname>
+          <foodprice>85</foodprice>
+          <foodquantity>93</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>7905</totalprice>
+    <discount>0</discount>
+    <numoforders>1</numoforders>
+  </customer>
+  <customer>
+    <phonenum>1035214</phonenum>
+    <orders>
+      <order>
+        <area>dfds,El-Shrouk</area>
+        <item>
+          <foodname>Belgian Waffles</foodname>
+          <foodprice>60</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+        <item>
+          <foodname>Belgian Waffles</foodname>
+          <foodprice>60</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+        <item>
+          <foodname>Belgian Waffles</foodname>
+          <foodprice>60</foodprice>
+          <foodquantity>2</foodquantity>
+        </item>
+        <item>
+          <foodname>Strawberry Belgian Waffles</foodname>
+          <foodprice>85</foodprice>
+          <foodquantity>2</foodquantity>
+        </item>
+        <item>
+          <foodname>Homestyle Breakfast</foodname>
+          <foodprice>90</foodprice>
+          <foodquantity>3</foodquantity>
+        </item>
+      </order>
+      <order>
+        <area>dfds,El-Shrouk</area>
+      </order>
+      <order>
+        <area>ffd,El-Shrouk</area>
+        <item>
+          <foodname>Belgian Waffles</foodname>
+          <foodprice>60</foodprice>
+          <foodquantity>2</foodquantity>
+        </item>
+      </order>
+    </orders>
+    <totalprice>1028</totalprice>
+    <discount>12</discount>
+    <numoforders>3</numoforders>
+  </customer>
+</table>

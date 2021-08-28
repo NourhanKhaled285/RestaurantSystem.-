@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.pdb
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Chartusercontrol.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.CustomerInfo.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.DeliveryBoys_usercontrol.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.FactoryPanels.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.InoviceForm.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.MainForm.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Main_Menu.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Switch_usercontrol.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\restaurantAya.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.exe
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.pdb

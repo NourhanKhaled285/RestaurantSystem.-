@@ -1,0 +1,34 @@
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Chartusercontrol.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.CustomerInfo.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.DeliveryBoys_usercontrol.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.InoviceForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.MainForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Main_Menu.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Switch_usercontrol.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.csprojResolveAssemblyReference.cache
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.exe
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.pdb
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.pdb
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.csprojResolveAssemblyReference.cache
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Chartusercontrol.resources
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.CustomerInfo.resources
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.DeliveryBoys_usercontrol.resources
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.InoviceForm.resources
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.MainForm.resources
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Main_Menu.resources
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Switch_usercontrol.resources
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.csproj.GenerateResource.Cache
+E:\darasa\2nd term\files\project\v3\V3\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.FactoryPanels.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.exe
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.pdb

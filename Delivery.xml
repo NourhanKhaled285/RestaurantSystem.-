@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DeliveryTable>
+  <Delivery>
+    <Area>Abbaseya</Area>
+    <ID>1</ID>
+    <ID>2</ID>
+   
+  </Delivery>
+  <Delivery>
+    <Area>El_Obour</Area>
+    <ID>3</ID>
+    <ID>4</ID>
+   
+  </Delivery>
+  <Delivery>
+    <Area>El-Shrouk</Area>
+    <ID>5</ID>
+    
+  </Delivery>
+  <Delivery>
+    <Area>El-Zayton</Area>
+    <ID>6</ID>
+    <ID>7</ID>
+    
+  </Delivery>
+  <Delivery>
+    <Area>El_Rehab</Area>
+    <ID>8</ID>
+    
+  </Delivery>
+  <Delivery>
+    <Area>Heliopolis</Area>
+    <ID>9</ID>
+    <ID>10</ID>
+  
+  </Delivery>
+  <Delivery>
+    <Area>Madinty</Area>
+    <ID>11</ID>
+    
+  </Delivery>
+  <Delivery>
+    <Area>Madint Nasr</Area>
+    <ID>12</ID>
+    <ID>13</ID>
+    
+  </Delivery>
+</DeliveryTable>

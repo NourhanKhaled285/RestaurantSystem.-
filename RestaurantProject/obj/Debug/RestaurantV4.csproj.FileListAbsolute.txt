@@ -1,0 +1,45 @@
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.pdb
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantV4.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Chartusercontrol.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.CustomerInfo.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.DeliveryBoys_usercontrol.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.FactoryPanels.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.InoviceForm.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.MainForm.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Main_Menu.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantV4.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.exe
+C:\Users\lenovo\Desktop\New folder\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.pdb
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.exe
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.pdb
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.pdb
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantV4.csprojResolveAssemblyReference.cache
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Chartusercontrol.resources
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.CustomerInfo.resources
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.DeliveryBoys_usercontrol.resources
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.FactoryPanels.resources
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.InoviceForm.resources
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.MainForm.resources
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Main_Menu.resources
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+F:\lectcures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantV4.csproj.GenerateResource.Cache
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.exe
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.pdb
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.pdb
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantV4.csprojResolveAssemblyReference.cache
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Chartusercontrol.resources
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.CustomerInfo.resources
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.DeliveryBoys_usercontrol.resources
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.FactoryPanels.resources
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.InoviceForm.resources
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.MainForm.resources
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Main_Menu.resources
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+F:\lectures and labs second year\2nd term\files organization\file project\RestaurantProject\RestaurantProject\obj\Debug\RestaurantV4.csproj.GenerateResource.Cache
